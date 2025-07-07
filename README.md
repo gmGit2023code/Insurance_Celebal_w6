@@ -1,6 +1,7 @@
 Insurance Charges Predictor
 
 A machine learning web app that predicts medical insurance costs based on user demographics and health factors.
+
 ![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 
